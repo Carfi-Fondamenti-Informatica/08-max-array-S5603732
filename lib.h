@@ -1,1 +1,6 @@
+#ifndef UNTITLED_PRIMALIBRERIA_H
+#define UNTITLED_PRIMALIBRERIA_H
 
+float array(float );
+
+#endif //UNTITLED_PRIMALIBRERIA_H
